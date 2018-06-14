@@ -1,5 +1,5 @@
 {
-  "name": "base64-and-other-coders",
+  "name": "base64-and-other-coders-command-line-utils",
   "version": "1.0.0",
   "description": "A collection of coders and decoders",
   "main": "base64-decode-command.js",
