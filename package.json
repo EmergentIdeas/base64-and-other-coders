@@ -1,0 +1,22 @@
+{
+  "name": "base64-and-other-coders",
+  "version": "1.0.0",
+  "description": "A collection of coders and decoders",
+  "main": "base64-decode-command.js",
+  "bin": {
+    "base64-decode": "./base64-decode-command.js",
+    "base64-encode": "./base64-encode-command.js"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SpiderStrategies/j-quote"
+  },
+  "author": "Dan Kolz",
+  "license": "ISC",
+  "dependencies": {
+    "console-in-transformer": "^1.0.2",
+    "lodash": "^4.13.1"
+  }
+}
